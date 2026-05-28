@@ -64,7 +64,7 @@ Please use this as a structural reference, not as text to copy. Your statement s
 
 ## Other Resources
 
-1. [What’s a Good Statement of Purpose?](https://ed.stanford.edu/sites/default/files/statement-of-purpose_revised_4.pdf)
+1. [What’s a Good Statement of Purpose?](https://web.archive.org/web/20251123045148/https://ed.stanford.edu/sites/default/files/statement-of-purpose_revised_4.pdf)
 
 2. [How to Write a Bad Statement for a Computer Science Ph.D. Admissions Application](https://www.cs.cmu.edu/~pavlo/blog/2015/10/how-to-write-a-bad-statement-for-a-computer-science-phd-admissions-application.html)
 
