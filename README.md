@@ -72,6 +72,8 @@ Please use this as a structural reference, not as text to copy. Your statement s
 
 4. [Get LaTeX for Mac, Linux, or Windows](https://www.latex-project.org/get/)
 
+5. [ProfScout](https://profscout.com) helps you find faculty whose recent work matches your interests, so you can name potential advisors in your SoP. 3 free professor unlocks, paid plans for full access.
+
 ## Contributing
 
 If you have suggestions that would make this template easier for applicants to use, feel free to open an issue or pull request.
